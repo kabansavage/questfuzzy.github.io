@@ -1,4 +1,3 @@
-# mansworld.github.io
 <!-- Лендинг: Психология. Мужской мир – Чёрно-золотой стиль -->
 <body style="margin:0; font-family: 'Segoe UI', system-ui, sans-serif; background:#0a0a0a; color:#e0e0e0;">
 
